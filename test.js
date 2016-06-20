@@ -1,7 +1,7 @@
 "use strict";
 
 var assert = require("assert");
-var globToRegExp = require(".");
+var globToRegExp = require("./index.js");
 
 function assertMatch(glob, testStr, options) {
     assert.ok(globToRegExp(glob, options).test(testStr));
