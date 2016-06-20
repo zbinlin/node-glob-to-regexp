@@ -1,6 +1,9 @@
 # glob2regexp
 
-Convert glob string to RegExp object
+[![Build Status](https://img.shields.io/travis/zbinlin/node-glob-to-regexp/master.svg?style=flat-square)](https://travis-ci.org/zbinlin/node-glob-to-regexp)
+[![NPM version](https://img.shields.io/npm/v/glob2regexp.svg?style=flat-square)](https://www.npmjs.org/package/glob2regexp)
+
+> Convert glob string to RegExp object
 
 
 ## Usage
