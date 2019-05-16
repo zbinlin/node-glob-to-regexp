@@ -1,6 +1,6 @@
 {
   "name": "glob2regexp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "convert glob string to RegExp object",
   "main": "index.js",
   "scripts": {
